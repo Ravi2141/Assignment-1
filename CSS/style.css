@@ -38,6 +38,18 @@
                 border-radius: 8px;
             }
             
+            a:link,
+            a:visited {
+                color: #a6a9a3;
+                padding: 2px;
+                text-align: center;
+                text-decoration: none;
+            }
+            
+            p {
+                font-family: "Times New Roman", Times, serif;
+            }
+            
             .to {
                 padding-left: 15%;
                 padding-right: 40px;
@@ -113,7 +125,7 @@
             .div41 {
                 background-image: url('../images/hbg5.png');
                 background-repeat: no-repeat;
-                background-size: 100% 100%;
+                background-size: 100% 100% 100% 100%;
             }
             
             .container {
@@ -189,6 +201,14 @@
                 /*background-image:url('images/testimonial-bg.jpg')*/
             }
             
+            #para-id {
+                font-size: 55px;
+                padding-top: 5%;
+                padding-bottom: 2%;
+                font-weight: bold;
+                color: white;
+            }
+            
             .dflex1 {
                 background-color: white;
                 margin-left: 10%;
@@ -224,4 +244,100 @@
             
             #div63 {
                 padding-bottom: 3%;
+                padding-left: 10%;
+                padding-right: 10%;
+                font-size: 20px;
+                text-align: center;
+                /* font-weight: bold; */
+                color: white;
+            }
+            
+            #div7 {
+                margin-left: 10%;
+                margin-right: 4%;
+                width: 35%;
+                margin-bottom: 5%;
+                text-align: justify;
+            }
+            
+            #div71 {
+                width: 35%;
+                margin-bottom: 5%;
+                margin-right: 4%;
+                text-align: justify;
+            }
+            
+            #div72 {
+                width: 35%;
+                margin-bottom: 5%;
+                margin-right: 10%;
+                text-align: justify;
+            }
+            
+            #after-down {
+                background-color: #00061a;
+                color: white;
+                padding-left: 5%;
+                padding-right: 7%;
+                padding-top: 2%;
+                padding-bottom: 2%
+            }
+            
+            #logo8 {
+                padding-left: 10%
+            }
+            
+            #logo81 {
+                padding-left: 3%;
+                padding-right: 13%;
+                font-size: 28px;
+            }
+            
+            #logo82 {
+                margin-left: 10%;
+                margin-right: 7%;
+                margin-top: 2%;
+                margin-bottom: 2%;
+            }
+            
+            #recent9 {
+                margin-right: 7%;
+                margin-top: 2%;
+                margin-bottom: 2%;
+            }
+            
+            #recent91 {
+                margin-top: 2%;
+                margin-bottom: 2%;
+                margin-right: 7%;
+            }
+            
+            #footer {
+                display: flex;
+                background-color: black;
+                color: white;
+                padding-left: 5%;
+            }
+            
+            #footer11 {
+                margin: 3%;
+                margin-right: 10%;
+            }
+            
+            #footer12 {
+                margin: 2%;
+                margin-right: 10%;
+            }
+            
+            #footer13 {
+                display: flex;
+                margin-top: 2%;
+            }
+            
+            #footer14 {
+                margin-top: 4%;
+            }
+            
+            #footer15 {
+                text-align: center;
             }
