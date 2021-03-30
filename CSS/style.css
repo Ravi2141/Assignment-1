@@ -245,4 +245,29 @@ p {
 #footer15 {
     text-align: center;
     margin-left: -12%;
+    padding-left: 20%;
 }
+
+.navbar-nav {
+    border: none;
+    width: 1em;
+    float: left;
+    padding-left: 5%;
+}
+
+.container-fluid {
+    align-items: center;
+}
+
+
+/* 
+@media (max-width:414) {
+    #toggle-button {
+        margin-left: 100px;
+    }
+} */
+
+
+/* .navbar-toggler {
+    float: right;
+} */
